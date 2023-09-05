@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emin Alptekin</h1>
-<h3 align="center">I want to develop myself on crypto or mobile even want to improve in the whole sector in general</h3>
+<h3 align="center">FULL TİME STUDENT. PART TİME WRİTER BUT CODE WRİTER. 🖋️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alptekin0&label=Profile%20views&color=0e75b6&style=flat" alt="alptekin0" /> </p>
 
