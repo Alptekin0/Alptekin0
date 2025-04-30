@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alptekin0&label=Profile%20views&color=0e75b6&style=flat" alt="alptekin0" /> </p>
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **tersnokta0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,5 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alptekin0&show_icons=true&locale=en&layout=compact" alt="alptekin0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alptekin0&show_icons=true&locale=en" alt="alptekin0" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alptekin0&theme=github-dark-dimmed&border_radius=20&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alptekin0&theme=github-dark-dimmed&border_radius=20)](https://git.io/streak-stats)
