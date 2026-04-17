@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mehmet Emin Alptekin
-### FULL TIME STUDENT. PART TIME WRITER BUT CODE WRITER 🖋️
+### FULL TIME WRITER BUT CODE WRITER 🖋️
 
 ![Profile views](https://komarev.com/ghpvc/?username=alptekin0&label=Profile%20views&color=0e75b6&style=flat)
 
